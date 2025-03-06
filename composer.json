@@ -1,0 +1,15 @@
+{
+    "name": "minfr/p_app",
+    "autoload": {
+        "psr-4": {
+            "Minfr\\PApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "basikMisha",
+            "email": "michail.rastigaev@gmail.com"
+        }
+    ],
+    "require": {}
+}
